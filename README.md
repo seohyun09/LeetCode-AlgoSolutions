@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
+| [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -35,4 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
