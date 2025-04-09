@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -29,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
