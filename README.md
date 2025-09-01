@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -90,8 +92,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
