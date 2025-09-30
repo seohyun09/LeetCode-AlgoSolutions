@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
+| [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0078-subsets) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
