@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -170,11 +171,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -208,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
