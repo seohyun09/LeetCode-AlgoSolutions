@@ -168,11 +168,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
@@ -196,9 +198,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
