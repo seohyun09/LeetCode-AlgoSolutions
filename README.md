@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0332-reconstruct-itinerary) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
@@ -222,4 +224,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
