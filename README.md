@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0687-longest-univalue-path) |
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0310-minimum-height-trees) |
 | [0617-merge-two-binary-trees](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -267,12 +270,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
