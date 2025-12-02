@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
