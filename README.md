@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0328-odd-even-linked-list) |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 ## Geometry
 |  |
 | ------- |
