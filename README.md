@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0817-design-hashmap) |
