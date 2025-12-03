@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0316-remove-duplicate-letters) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 ## Counting Sort
