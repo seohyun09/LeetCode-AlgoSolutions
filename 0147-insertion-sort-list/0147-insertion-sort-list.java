@@ -22,7 +22,10 @@ class Solution {
             p.next = head;
             head.next = pNext;
             head = headNext;
-            p = parent;
+            
+            if (head != null && head.val < p.val) {
+                p = parent;
+            }
         }
         return parent.next;
     }
