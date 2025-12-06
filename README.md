@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0859-design-circular-deque) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
