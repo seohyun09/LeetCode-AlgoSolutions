@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0046-permutations) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
