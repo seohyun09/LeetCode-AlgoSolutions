@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0739-daily-temperatures) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
