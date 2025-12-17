@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0393-utf-8-validation](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0393-utf-8-validation) |
 | [0561-array-partition](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0739-daily-temperatures) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0393-utf-8-validation) |
 | [0461-hamming-distance](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0461-hamming-distance) |
 ## Graph
 |  |
