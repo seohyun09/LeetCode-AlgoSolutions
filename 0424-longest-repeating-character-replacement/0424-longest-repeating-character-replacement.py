@@ -10,11 +10,10 @@ class Solution:
                 hash_map[s[right]] += 1
             maxCount = max(hash_map.values())
 
-            if right - left - maxCount + 1 > k:
+            if right - left + 1 > maxCount + k:
                 hash_map[s[left]] -= 1
                 left += 1
             
-            
             right += 1
-    
+
         return len(s) - left
