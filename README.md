@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Bucket Sort
 |  |
 | ------- |
