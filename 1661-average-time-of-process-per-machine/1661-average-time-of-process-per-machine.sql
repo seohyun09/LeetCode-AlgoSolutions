@@ -18,7 +18,7 @@ T AS (
 )
 
 SELECT machine_id
-     , ROUND(SUM(timestamp) / COUNT(process_id), 3) processing_time
+     , ROUND(AVG(timestamp), 3) processing_time
 FROM T
 GROUP BY machine_id
 ;
