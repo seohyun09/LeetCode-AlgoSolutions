@@ -356,5 +356,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0178-rank-scores) |
+| [0185-department-top-three-salaries](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0185-department-top-three-salaries) |
 | [1661-average-time-of-process-per-machine](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
