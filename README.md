@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -348,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -370,4 +376,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
