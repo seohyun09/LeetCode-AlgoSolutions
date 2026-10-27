@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0817-design-hashmap) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Function
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bucket Sort
 |  |
 | ------- |
