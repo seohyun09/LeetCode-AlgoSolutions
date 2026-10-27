@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0860-design-circular-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/seohyun09/LeetCode-AlgoSolutions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
